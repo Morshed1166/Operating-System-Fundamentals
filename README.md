@@ -41,7 +41,9 @@ Operating Systems (OS) is the core software that manage's computer hardware and 
 ## Spreadsheet Explanation
 
 
-## Contribution of Each Member
-- Sadia Afrin     -        2026000000012 - Excel Dataset, Chart and create Presentation Slides
-- Miftahul Jannat Noyona - 2026000000023 - Written Report (Introduction, Discussion, Conclusion)
-- Mohammad Morshed Islam - 2026000000008 - GitHub Repository create and review 
+ ## Contribution of Each Member 
+| NAME                   | ROLL          | CONTRIBUTION                                         |
+|------------------------|---------------|------------------------------------------------------|
+| Sadia Afrin            | 2026000000012 | Excel Dataset, Chart and create Presentation Slides  |
+| Miftahul Jannat Noyona | 2026000000023 | Written Report (Introduction, Discussion, Conclusion)|
+| Mohammad Morshed Islam | 2026000000008 | GitHub Repository create and review                  |
