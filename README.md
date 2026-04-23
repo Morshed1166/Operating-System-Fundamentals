@@ -5,14 +5,15 @@
 - Group No: S0103
 
 ## Instructor
-- Tashreef Muhammad - [https://github.com/TashreefMuhammad] 
 
+|   Tashreef Muhammad | [https://github.com/TashreefMuhammad] |
+|---------------------|---------------------------------------|
 ## Group Members
-- Sadia Afrin - 2026000000012 [https://github.com/sadia-afrin307]
 
-- Miftahul Jannat Noyona - 2026000000023 [https://github.com/soothing36-cpu]
-
-- Mohammad Morshed Islam - 2026000000008 [https://github.com/Morshed1166]
+| Sadia Afrin            | 2026000000012 | [https://github.com/sadia-afrin307] |
+|------------------------|---------------|-------------------------------------|
+| Miftahul Jannat Noyona | 2026000000023 | [https://github.com/soothing36-cpu] |
+| Mohammad Morshed Islam | 2026000000008 | [https://github.com/Morshed1166]    |
 
 ## Topic Overview 
 Operating Systems (OS) is the core software that manage's computer hardware and software resources, serving as an interface between the user and the computer. This project explores fundamental operating system concepts, such as process management, memory management, file systems, and security features.
